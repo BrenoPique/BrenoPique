@@ -14,17 +14,18 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-### 🎓 Sobre Mim
+## 🎓 Sobre Mim
 
-- 🇧🇷 Brasileiro formado em Administração de Empresas
-- 💼 Experiência em gestão de sinistros, cobança e atendimento ao cliente em uma corretora de seguros
-- 📚 Atualmente cursando Técnico em Desenvolvimento de Sistemas
-- 🌱 Sempre em busca de aprimoramento e novos desafios
+- 🇧🇷 **Brasileiro**, formado em **Administração de Empresas**, com experiência em **gestão de sinistros**, **gestão de inadimplência** e **atendimento ao cliente** em uma corretora de seguros.
+- 📚 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**, focado em criar soluções tecnológicas eficientes e de impacto.
+- 💼 Apaixonado por **tecnologia** e **inovação**, estou sempre em busca de **aprimorar minhas habilidades** e enfrentar novos desafios na área de **desenvolvimento**.
+- 🌱 Acredito que a disciplina no aprendizado contínuo é fundamental para alcançar evolução pessoal e profissional.
 
-### 🚀 Objetivos
+## 🚀 Objetivos
 
-- **Curto Prazo:** Concluir meu TCC em Desenvolvimento de Sistemas e conquistar uma oportunidade de trabalho na área
-- **Longo Prazo:** Expandir meus conhecimentos em Desenvolvimento de Sistemas
+- **Curto Prazo:** Concluir meu **TCC** no curso de Desenvolvimento de Sistemas e garantir uma oportunidade na área de **Desenvolvimento de Software**.
+- **Longo Prazo:** Expandir meus conhecimentos em **Desenvolvimento de Sistemas**, explorando diferentes linguagens e tecnologias para me tornar um profissional completo e versátil.
+
 
 ##
 <div style="aling-itens:center;"> 
@@ -32,3 +33,7 @@
 <a href="mailto:brenopique@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brenopique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![snake animation](https://github.com/BrenoPique/BrenoPique/blob/output/github-contribution-grid-snake2.svg)
+
+
